@@ -1,0 +1,7 @@
+name = "POnG"
+uuid = "e88525ae-9fbb-4a88-b1c4-5616ba3e0dd8"
+authors = ["Pierre Chantelot"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
