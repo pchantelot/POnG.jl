@@ -1,7 +1,17 @@
 name = "POnG"
 uuid = "e88525ae-9fbb-4a88-b1c4-5616ba3e0dd8"
-authors = ["Pierre Chantelot"]
 version = "1.0.0-DEV"
+authors = ["Pierre Chantelot"]
+
+[deps]
+Kronecker = "2c470bb0-bcc8-11e8-3dad-c9649493f05e"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NonlinearEigenproblems = "067cfa3b-fa88-53b2-a873-5b23b3a16e31"
+ToeplitzMatrices = "c751599d-da0a-543b-9d20-d0a503d91d24"
 
 [compat]
+Kronecker = "0.5.5"
+LinearAlgebra = "1.12.0"
+NonlinearEigenproblems = "1.1.1"
+ToeplitzMatrices = "0.8.5"
 julia = "1.10"

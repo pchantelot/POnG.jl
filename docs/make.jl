@@ -11,9 +11,13 @@ makedocs(;
         canonical="https://pchantelot.github.io/POnG.jl",
         edit_link="main",
         assets=String[],
+        mathengine  = Documenter.MathJax3()
     ),
     pages=[
         "Home" => "index.md",
+        "Examples" => "tutorial.md",
+        "Methods" => ["Computing guided waves" => "methods.md", "Viscoacoustoelasticity" => "material.md"],
+        "Reference" => "reference.md"
     ],
 )
 
