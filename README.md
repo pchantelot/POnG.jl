@@ -1,9 +1,11 @@
 # POnG
 **P**rogramme pour les **On**des **G**uidées
 
-[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://pchantelot.github.io/POnG.jl/stable/)
+[//]: # "[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://pchantelot.github.io/POnG.jl/stable/)"
+
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://pchantelot.github.io/POnG.jl/dev/)
 [![Build Status](https://github.com/pchantelot/POnG.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/pchantelot/POnG.jl/actions/workflows/CI.yml?query=branch%3Amain)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19069061.svg)](https://doi.org/10.5281/zenodo.19069061)
 
 Compute the dispersion relations of guided elastic waves in plates, tubes and strips for elastic and almost incompressible viscoelastic media subjected to an homogeneous finite deformation. 
 
@@ -31,7 +33,7 @@ The package [NonlinearEigenProblems.jl](https://github.com/nep-pack/NonlinearEig
 ## Citing POnG
 If you use this code, please cite the zenodo repository:
 
-- P. Chantelot, POnG.jl, [https://doi.org/xx.xxxx/zenodo.xxxxxxxx](https://doi.org/xx.xxxx/zenodo.xxxxxxxx) ([https://github.com/pchantelot/POnG.jl](https://github.com/pchantelot/POnG.jl))
+- P. Chantelot, POnG.jl, [https://doi.org/10.5281/zenodo.19069061](https://doi.org/10.5281/zenodo.19069061) ([https://github.com/pchantelot/POnG.jl](https://github.com/pchantelot/POnG.jl))
 
 If relevant, please cite the following publications:
 
