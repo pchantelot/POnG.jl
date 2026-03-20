@@ -31,7 +31,7 @@ The package [NonlinearEigenProblems.jl](https://github.com/nep-pack/NonlinearEig
 ## Citing POnG
 If you use this code, please cite the zenodo repository:
 
-- P. Chantelot, POnG.jl, [https://doi.org/xx.xxxx/zenodo.xxxxxxxx](https://doi.org/xx.xxxx/zenodo.xxxxxxxx) ([https://github.com/pchantelot/POnG.jl](https://github.com/pchantelot/POnG.jl))
+- P. Chantelot, POnG.jl, [https://doi.org/10.5281/zenodo.19069061](https://doi.org/10.5281/zenodo.19069061) ([https://github.com/pchantelot/POnG.jl](https://github.com/pchantelot/POnG.jl)).
 
 If relevant, please cite the following publications:
 
@@ -39,7 +39,7 @@ If relevant, please cite the following publications:
 
 - [2] P. Chantelot, A. Delory, C. Prada, and F. Lemoult, Wave propagation in a model artery, [10.48550/arXiv.2507.17698](https://doi.org/10.48550/arXiv.2507.17698) (2025).
 
-- [3] P. Chantelot, S. Croquette and F. Lemoult, Guided elastic waves informed material modelling of soft incompressible media, [10.xxxxx/arXiv.xxxx.xxxxx](https://doi.org/10.xxxxx/arXiv.xxxx.xxxxx).
+- [3] P. Chantelot, S. Croquette and F. Lemoult, Guided elastic waves informed material modelling of soft incompressible media, [10.48550/arXiv.2603.18839](https://doi.org/10.48550/arXiv.2603.18839) (2026).
 
 
 ## Authors
