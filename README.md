@@ -39,9 +39,9 @@ If relevant, please cite the following publications:
 
 - [1] A. Delory, D. A. Kiefer, M. Lanoy, A. Eddi, C. Prada, and F. Lemoult, Viscoelastic dynamics of a soft strip subject to a large deformation, *Soft Matter*, (2024), doi: [10.1039/D3SM01485A](https://doi.org/10.1039/D3SM01485A).
 
-- [2] P. Chantelot, A. Delory, C. Prada, and F. Lemoult, Wave propagation in a model artery, [10.48550/arXiv.2507.17698](https://doi.org/10.48550/arXiv.2507.17698) (2025).
+- [2] P. Chantelot, A. Delory, C. Prada, and F. Lemoult, Wave propagation in a model artery, *C. R. - Méc*, (2026), doi: [10.5802/crmeca.356](https://doi.org/10.5802/crmeca.356).
 
-- [3] P. Chantelot, S. Croquette and F. Lemoult, Guided elastic waves informed material modelling of soft incompressible media, [10.48550/arXiv.2603.18839](https://doi.org/10.48550/arXiv.2603.18839) (2026).
+- [3] P. Chantelot, S. Croquette and F. Lemoult, Guided elastic waves informed material modelling of soft incompressible media, *Proc. R. Soc. A*, (2026), doi: [10.1098/rspa.2026.0254](https://doi.org/10.1098/rspa.2026.0254) (2026).
 
 
 ## Authors
